@@ -1,4 +1,4 @@
-# JavaScript Selection Statements
+# JavaScript Loops
 
 ## Getting Started
 
